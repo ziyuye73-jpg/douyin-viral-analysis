@@ -1,0 +1,19 @@
+# ===== 原始数据（含个人账号信息，不公开）=====
+*.xlsx
+*.xls
+*.pkl
+
+# data 目录下仅保留已脱敏的 CSV，其余忽略
+data/*.xlsx
+data/*.pkl
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ===== 系统 / 编辑器 =====
+.DS_Store
+.vscode/
+.idea/
