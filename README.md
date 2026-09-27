@@ -109,7 +109,7 @@ douyin-viral-analysis/
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/<your-name>/douyin-viral-analysis.git
+git clone https://github.com/ziyuye73-jpg/douyin-viral-analysis.git
 cd douyin-viral-analysis
 
 # 2. 安装依赖（建议 Python 3.11）
